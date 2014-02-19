@@ -1,13 +1,14 @@
-# Compiled Object files
-*.slo
-*.lo
+*.d
 *.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.lss
+*.map
+*.elf
+*.eep
+*.bin
+*.hex
+Boards/
+Debug/
+Release/
+Doc/html
+/Release - O2
+/Release - Os
